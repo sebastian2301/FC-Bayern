@@ -8,7 +8,7 @@ background-repeat: no-repeat;}
 body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
-      color: gold; 
+      color: red; 
       background-color: black;
   }
   h2 {
@@ -149,7 +149,7 @@ border-color: #f4511e;}
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
       color: black !important;
-      background-color: #F6BE00 !important;
+      background-color: red !important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
